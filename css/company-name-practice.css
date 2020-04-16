@@ -29,6 +29,11 @@ a {
     padding: 1em;
 }
 
+img {
+    width: 90%;
+    height: 90%;
+}
+
 a:link {
     color: black;
 }
